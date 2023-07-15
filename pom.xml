@@ -49,7 +49,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>java8features.jar</finalName>
 	</build>
 
 </project>
